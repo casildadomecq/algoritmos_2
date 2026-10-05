@@ -1,0 +1,9 @@
+a=4
+b=3
+
+def area_rect(a,b):
+    res=a*b
+
+    return res
+
+print(area_rect(a,b))

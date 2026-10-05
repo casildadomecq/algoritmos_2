@@ -1,0 +1,9 @@
+a=1000
+b=15
+
+def precio_final(a,b):
+    b=(a*b)/100
+    res=a+b
+    return res
+
+print(precio_final(a,b))
